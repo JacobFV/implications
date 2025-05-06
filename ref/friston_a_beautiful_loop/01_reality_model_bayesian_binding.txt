@@ -1,0 +1,268 @@
+2.
+
+SIMULATING A REALITY MODEL
+
+In order to move about in a world and keep ourselves alive, we need a model of that world. One could
+not walk, jump, pick up a glass, catch a ball, or give a hug, without a simulation of the unfolding present.
+Achieving such a coherent model of reality is an immense feat, especially considering that the brain has to
+deal with unpredictable, imprecise and often incoherent data (Treisman, 1996). Yet, somehow, our
+experience of reality seems to make sense—it has depth, color, shape, thought, emotion, people, and objects
+that we seem to understand and predict with relative ease. Notably, there can also be an awareness of the
+contents of this world model. We experience the catching of the ball, the texture of grass under our feet,
+and the warm embrace. Our world appears to be alive.
+We term this 'experienced world', which is the organism's entire lived reality, the generative
+phenomenal, unified world model (hereafter simply reality model). It is generative because processes
+internal to the organism play a central role in constructing or generating the 'output' of the model. It is
+phenomenal because there can be an experience of the reality model—it constitutes our lived world. And it
+is unified because it is coherent or appears to be 'bound' together as a whole. This reality model is also an
+epistemic field because it is a place (or flow of sensations) that can be known, explored, interrogated, and
+updated—a kind of affordance for action, both physical and mental (Metzinger, 2017). Our model of reality
+tells us what is possible and what is not possible, what will keep us alive and what will harm us, and even
+what we ourselves are. We take such a model to be a necessary condition for consciousness because it
+defines what can become conscious, be known, or experienced.
+Active inference provides a straightforward solution to — or description of — how organisms construct
+a reality model apt for their lived world (Friston, 2006; 2010). Various details of this theory will be
+introduced later; here, it is sufficient to lay out a few of the key tenets. Active inference can be derived from
+two codependent assumptions: (1) the imperative for biological systems to maintain a boundary between
+themselves and the environment (i.e., existence), and (2) the necessity to remain in a specific set of
+(characteristic) states compatible with continued existence (i.e., adaptive actions). From these premises, we
+can construct a framework where existence necessitates a generative model of the self and environment,
+allowing the system to resolve surprising sensations — i.e., homeostasis — and anticipate surprising
+outcomes and maintain themselves through adaptive action, i.e., allostasis. In order to learn and update the
+model, organisms reduce prediction errors, or uncertainty1. Or flipped around, the organism persists by
+seeking evidence for its own existence, i.e., self-evidencing (Hohwy, 2016). Minimizing prediction errors—
+the difference between top-down predictions and input—simultaneously improves the model's accuracy
+and guides the system towards preferred, livable, states that are characteristic of the kind of thing it is.
+The key innovation of active inference lies in treating action selection as an inference problem, where
+policies (sequences of actions) are selected to minimize expected uncertainty (i.e., surprises in the future
+consequent on a policy). In order to handle the separation of temporal scales in real-world environments —
+and to balance present-moment expectations with future needs — the generative model is almost universally
+hierarchical, with higher levels encoding more abstract and longer-term predictions. For example,
+soundwaves can be abstracted into phonemes, which can be abstracted into syllables, and then into words,
+sentences, biographies, and so on (Baltzell et al., 2019; Dehaene et al., 2015; Ding et al., 2015; Taylor et
+al., 2015; Friston et al., 2024; Friston et al., 2017; George and Hawkins, 2009). This formulation allows for
+deep narratives about our experiences and our bodies across time, as well as goal-directed behavior, to
+emerge from the fundamental drive to maintain existence.
+Finally, the prediction errors that report the degree of surprise — and thereby drive Bayesian belief
+updating at each hierarchical level — are precision-weighted (Feldman & Friston, 2010). Precision
+modulates the impact of prediction errors on belief updating and policy selection by controlling the gain on
+error units. High precision amplifies the influence of prediction errors, while low precision attenuates them.
+This precision-weighting mechanism allows the system to flexibly adapt to different contexts by modulating
+the balance between sensory evidence and prior beliefs. Put simply, we need to know what we know but
+also how confident we are about it. In some cases, we can trust our beliefs, in other cases we need to focus
+on learning something new from the world (Friston et al., 2015). On this reading, world models are
+'precision engineered', where increasing the precision of certain prediction errors can be understood in
+terms of attending to their source.
+One of the advantages of active inference is that it can act as a bridge between first and third-person
+approaches (cf. the explanatory gap, Levine, 1983). In other words, computational approaches like active
+inference offer a middle-way between subjective experience and neural mechanisms, providing mechanistic
+insight into both (see Figure 1). This approach is sometimes called computational neurophenomenology
+(Suzuki et al., 2022; Sandved-Smith et al., 2021; 2024; Ramstead et al., 2022) because it bridges subjective
+experience and objective neural processes within a single modeling framework. Specifically, it uses
+generative models to specify how the brain infers and constructs experiential content, allowing researchers
+to link changes in neural dynamics (the "algorithmic descriptions") to the qualities and structure of
+phenomenological experience. By systematically mapping both first-person reports and neural dynamics to
+underlying computational processes, we simultaneously gain an explanatory account of how subjective
+experience arises and a mechanistic understanding of how the brain implements it.
+
+1
+
+Technically an upper bound on surprise or negative log evidence
+
+4
+
+Figure 1
+Bridging the explanatory gap with computational neurophenomenology
+
+The Explanatory Gap
+
+THE HARD PROBLEM OF CONSCIOUSNESS
+
+1ST PERSON VIEW
+
+3RD PERSON VIEW
+
+Phenomenology of
+conscious experience
+
+Neural Mechanisms and
+brain level instantiation
+
+PHENOMENOLOGY BRIDGE
+
+NEURAL BRIDGE
+
+Generative phenomenal uniﬁed
+world model homologous to the
+'global' posterior
+
+A model of neural mechanisms providing
+interpretation, algorithmic description,
+or generating experimental predictions
+
+COMPUTATIONAL VIEW
+
+Computational Neurophenomenology is a bridge between the 1 st and 3rd person views
+
+Note. This figure illustrates the explanatory gap between neural mechanisms and subjective experience. Hierarchical active
+inference (the cone in the middle) acts as a bridge between these two—first and third person—approaches to knowledge. The cone
+also provides a schematic overview of how a reality or world model can be constructed through a process of hierarchical precisionweighted prediction-error minimization (i.e., active inference). At the lowest level (dark blue), the organism encounters input from
+various systems, including the five senses as well as interoceptive, proprioceptive, visceromotor, immune, neuroendocrine, and
+gustatory systems. Through a continuous interaction — between top-down expectations and bottom-up prediction errors — the
+system constructs increasingly abstract and temporally deep representations giving rise to the self, world, thoughts, action plans,
+feelings, emotions, imagination, and everything else. As a primer for the next section, the cone also depicts how 'binding' may be
+occurring at various levels of the hierarchy, from low level features, to objects, to global multimodal and transmodal binding of the
+different parallel systems. Not depicted here is the fact that this hierarchical process is constantly tested and confirmed through
+action (e.g., top-down attention, physical movement, or reasoning).
+
+Given the above, it appears that active inference can account for the capacity to simulate a pragmatic
+model of reality (i.e., a reality model that provides an epistemic field for adaptive action). Indeed, generating
+such a model is at the heart of active inference because without it the organism fails to anticipate preferred
+states and therefore maintain their boundaries — and bodies (Barrett, 2020). A growing evidence base
+suggests that active inference is, or at least could be, what the brain and body are doing (Walsh et al., 2020;
+Hohwy, 2013). Active inference therefore satisfies our first condition for consciousness, i.e., the generation
+of a world or reality model. This suggests that active inference may at least explain what is known or
+experienced. However, it does not yet explain the why or how of consciousness.
+
+5
+
+3.
+
+INFERENTIAL COMPETITION AND BAYESIAN BINDING
+
+Any theory of consciousness must explain why we become aware of some phenomena but not others.
+Active inference and predictive coding have provided impressive accounts of how particular contents of
+consciousness are constructed (particularly in the visual stream, Peelen et al., 2024). But as yet, there is no
+generally accepted account of what determines the selective threshold required for awareness (Seth &
+Bayne, 2022; Baars, 2005; Kouider & Dehaene, 2007). Some informative efforts in this general direction
+exist (Saffron, 2020; 2022; Friston, 2018; Hohwy, 2012; Dołęga & Dewhurst, 2021).
+Consider the familiar case of binocular rivalry (Breese, 1909; Tong et al., 2006). Here, a different image
+is presented to each eye at the same retinal location at the same time (e.g., a face is presented to the left eye,
+and a house is presented to the right eye). This results in a bizarre situation where the brain cannot seem to
+accept the fact of the two opposing visual realities. The resulting experience is a gradual switch between a
+house or a face, or a mix of the two. Such experiments highlight that some sort of selection process is taking
+place, which makes some configuration or interpretation of the senses conscious and not others (Hohwy et
+al., 2008; Hohwy, 2012). There are countless examples that raise a similar conundrum, including
+inattentional blindness (Mack, 2003; Kouider & Dehaene, 2007), visual and sensory illusions (Eagleman,
+2008; Laukkonen & Tangen, 2017), as well as introspective, cognitive, and behavioral confabulations
+(Nisbett & Schachter, 1966; Nisbett & Wilson, 1977; Maier, 1931; Wegner, 2002; Weiskrantz, 1986).
+While there are clearly some things that become conscious and others that do not, this pertains less to
+the harder problems of consciousness than one might think (Chalmers, 1995). Consider that regardless of
+which percept becomes conscious during binocular rivalry, we are always nevertheless (meta) aware of
+what enters our visual field. In other words, the presence of consciousness has not changed, only the
+contents. We can also be aware of the fact that our experience is changing from the face to the house, and
+even perhaps aware of why it is changing.
+What is somehow central is therefore the fact that there seems to be a "space" wherein there is
+something it is like to feel, perceive, and crucially, know the contents of mind (Metzinger, 2020).
+Cleeremans et al (2020) put this same point differently: "...someone is aware of some state of affairs not
+merely when she is sensitive to that state of affairs, but rather when she knows that she is sensitive to that
+state of affairs." [our emphasis]. When encountering a visual illusion, rivalry, or an ambiguous stimulus,
+we seem capable of knowing that we are having such and such experience. In the parlance of
+phenomenology, we experience 'seeing' and phenomenological transparency gives way to opacity
+(Limanowski and Friston, 2018; Metzinger, 2003). This experiential space seems to be unified, coherent,
+and bound together: a conscious gestalt, as others have noted (Baars et al., 2013; Tononi et al. 2005, 2008).
+Hence, consciousness has a certain conclusive nature to it, as if the brain and body have found a global and
+unified affordance within which it can have a self, move about, attend to things, feel emotions; and crucially,
+keep the body alive (Barrett, 2020; Seth, 2013).
+Here, we propose that the threshold for consciousness—what enters this epistemic field or reality
+model—is determined through a process of competition among possible explanations of the causes of one's
+sensations. Moreover, we suggest that the so-called binding "problem" may in fact be part of the "solution"
+
+as to what breaches the threshold for consciousness. That is, coherence and boundedness are a central
+criterion in winning the inferential competition. Metaphorically, the competition for consciousness has
+goalposts in the shape of coherence and unification. If an inference is incoherent with other parallel and
+hierarchically adjacent inferences throughout the system, then it is less likely to be selected2.
+This coherence criterion also falls out naturally from a system that aims to reduce uncertainty or
+prediction-errors. Dissonance between inferences is equivalent to confusion—a generative model that does
+not parsimoniously explain the data. Such confounding explanations result in irreducible error propagation.
+The pressure for coherence is foregrounded by the fact that the remit of the reality model is to reduce
+uncertainty for adaptive action (Nave et al., 2020). If the epistemic field is internally incoherent, uncertainty
+accumulates as we evaluate policies or paths into the future, rendering action selection imprecise and their
+outcomes uncertain (i.e., surprising on average).
+Specifically, we hypothesize that coherence and binding naturally fall out of a system that engages in
+hierarchical Bayesian inference (Knill & Pouget, 2004). What drives selection as to what gets bound into
+the field of experience is a precision-weighted competition between possible explanations for the causes of
+sensory data (i.e., a kind of competition for 'fame in the brain', Dennett, 1995; 2001). Crucially, what wins
+the precision-weighting competition is partially driven by the contents that best cohere with the existing
+reality model (i.e., priors), which provides the necessary constraints, or inducted biases (technically,
+empirical priors), for what can be assimilated into the epistemic field. In Bayesian terms, incoherent or
+incongruous data is either imprecise—in which case the associated prediction errors would be endowed
+with less precision—or unexplainable—in which case, precision weighting would preferentially select
+those data that can be explained. We illustrate this process of Bayesian binding using an example of micro-
+binding in a face percept (Figure 2). We argue that the same idea can be extended to macro-binding under
+the reality model.
+
+2
+
+See for example the invisible gorilla effect (Simons & Chabris, 1999)
+
+7
+
+Figure 2
+An example of "micro" binding for generating a face percept
+
+Hierarchical visual feature
+binding gives rise to a face
+
+Note. This figure illustrates a simplified process of Bayesian binding in the context of face perception. The diagram shows how
+noisy sensory input is combined with prior expectations to produce a clear posterior representation under a generative model. Left:
+The sensory data shows a low-precision (noisy) input image of a face where details are not easily discernible. Top left: The prior
+is represented as a high-level abstract face shape, indicating the brain's pre-existing expectation of what a face looks like (inspired
+by Lee & Mumford, 2003). NB: In reality, the generative model has many levels, representing a continuous range of abstraction.
+Center: The generative model uses the prior P(v) to generate predicted features (v) that are combined with the sensory data (u) to
+produce prediction errors (u-û), that together inform a posterior. Center Right: The posterior is the output of the generative model,
+showing a clearer, more detailed face image. This represents the brain's inference after combining prior expectations with sensory
+evidence. The equation illustrates a precision-weighted Bayesian binding process in a simplified unidimensional case assuming
+only Gaussian probability distributions. It shows how the posterior mean (μ_posterior) is a weighted combination of the prior mean
+(μ_prior) and the sensory data (μ_data), with weights determined by their respective relative precisions (π). This figure illustrates
+a key principle of Bayesian binding: a conscious percept or "thing" arises from the brain's attempt to create a coherent, unified
+explanation (the posterior) for its sensory inputs by combining them with prior expectations through hierarchical Bayesian
+inference. On the right, we also provide an intuitive monochrome visual illustration of feature binding in vision wherein low level
+visual feature patches are bound into face features like eyes, noses and mouths, and then how these features are bound into faces.
+
+Bayesian binding also offers a novel description of ignition as defined in GNWT (Dehaene &
+Changeux, 2011; Dehaene et al., 2014; Friston et al., 2012). Ignition refers to the sudden and widespread
+activation of a coalition of neurons that "ignites" information into conscious awareness. In GNWT, this
+process is characterized by a nonlinear transition from local, specialized processing to global availability
+of information across the brain. According to Bayesian binding, the ignition threshold is driven by precision
+competition throughout the hierarchy, wherein precisions are also constrained by coherence (top-down)
+with the reality model (i.e., predicted precision3 is higher if it has local and global coherence). Ignition,
+
+3
+
+The factors that drive precision are manifold, including salience, top-down attention, context contingencies,
+coherence, uncertainty, confidence, reward, neuromodulators, and previous learning more generally. Moreover, top-
+down attention can "magnify" particular layers or contents within the hierarchy by increasing their relative
+(precision) weighting in the reality model (Feldman & Friston, 2010), e.g., by paying attention to the textured bark
+of a particular tree — in the context of a forest scene — the conscious gestalt will be modified by enhancing the
+details of the gnarliness of the bark. The low level sensory percepts occupy more 'bandwidth' in the epistemic field.
+
+8
+
+binding, and competition are hence subsumed within active inference (Whyte & Smith, 2021). They are
+each the natural consequence of a system that reduces uncertainty with sufficient complexity and depth.
+A complimentary view (cf. Whyte & Smith, 2021; Whyte et al., 2024) proposes that consciousness
+arises specifically at the interface between continuous sensory perception and discrete, counterfactual
+policy selection processes. Here, conscious contents correspond to precise posterior beliefs about the hidden
+states of the world, body, or brain, which are temporally abstracted from immediate sensory fluctuations
+and sufficiently precise to drive action selection, including subjective reports. Thus, conscious states differ
+from unconscious ones in their capacity to inform discrete policy decisions, reflecting a computational
+balance between goal-directed (exploiting known information) and exploratory (resolving ambiguity and
+novelty) imperatives. An integrative perspective may be that Bayesian Binding is a key mechanistic
+threshold between continuous sensory perception and discrete, conscious, and precise posteriors for
+counterfactual policy selection. That is, Bayesian binding emphasizes that discrete and precise posteriors
+(Whyte & Smith et al., 2021) also require local and global coherence, which naturally drives the bounded
+and holistic nature of conscious experience.
+The key takeaway here is that Bayesian binding is (in theory) at the heart of all experience, from
+unimodal processes, multisensory binding, through to global integration. That is, generating experience
+demands nested levels of binding, i.e., combining priors and sensory evidence into an approximate posterior
+through a hierarchical generative model, where that perceptual synthesis or combination rest sensitively on
+the precision or confidence afforded each level of processing (Friston, 2008; Hohwy, 2012; Hohwy, 2013).
+The insight is that the same basic mechanism operates at both micro and macro levels. For example, just as
+we infer a teapot to be a single 'thing' (made of handles, a hollow body, and a spout), we also take our
+whole field of experience to be a single thing, which binds together the ground, the sky, our bodies, other
+people, and everything else. We hypothesize that this global unified model, however minimal, is necessary
+but not sufficient for conscious experience. It is only when this global posterior is reflected back through
+the underlying hierarchy that the conditions for consciousness are met. As we will see, explaining the
+contents of consciousness is insufficient to capture the imminent and sense of knowing the contents, or
+awareness of them. 

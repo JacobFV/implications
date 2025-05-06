@@ -1,0 +1,91 @@
+A beautiful loop:
+An active inference theory of consciousness
+Ruben Laukkonen1, Karl Friston6, & Shamil Chandaria2,3,4,5
+1
+
+Faculty of Health, Southern Cross University, Gold Coast, Australia
+Centre for Eudaimonia and Human Flourishing, Linacre College, Oxford University, UK
+3
+Centre for Psychedelic Research, Division of Brain Sciences, Imperial College London, UK
+4
+Institute of Philosophy, The School of Advanced Study, University of London, UK
+5
+Fitzwilliam College, University of Cambridge, UK
+6
+Institute of Neurology, University College London, UK
+2
+
+ABSTRACT
+Can active inference model consciousness? We offer three conditions implying that it can. The first
+condition is the simulation of a reality or generative world model, which determines what can be
+known or acted upon; namely an epistemic field. The second is inferential competition to enter the
+world model. Only the inferences that coherently reduce long-term uncertainty win, evincing a
+selection for consciousness that we call Bayesian binding. The third is epistemic depth, which is
+the recurrent sharing of the Bayesian beliefs throughout the system. Due to this recursive loop —
+in a hierarchical system (such as a brain) — the world model contains the knowledge that it exists.
+This is distinct from self-consciousness, because the world model knows itself non-locally and
+continuously evidences this knowing (i.e., field-evidencing). Formally, we propose a hyper-model
+for precision-control across the entire hierarchy, whose latent states (or parameters) encode and
+control the overall structure and weighting rules for all layers of inference. This Beautiful Loop
+Theory is deeply revealing about meditation, psychedelic, and altered states, minimal phenomenal
+experience, and provides a new vision for conscious artificial intelligence.
+Key words: Consciousness; Awareness; Active Inference; Predictive Processing; Free Energy; Meditation; Psychedelics;
+Sleep; Dreaming; Unconscious; Bayesian Inference; Artificial Intelligence; Neuroscience; Computational Modelling
+
+1
+
+
+1.
+
+INTRODUCTION
+
+Consciousness is perhaps the biggest mystery in science. At a certain point, most fields of inquiry find that
+the strange capacity of organisms to experience cannot be overlooked. Books, articles, and media discussing
+the nature of consciousness abound, with unique perspectives emerging from psychologists, neuroscientists,
+philosophers, phenomenologists, computer scientists, biologists, physicists, and contemplatives. Yet, most
+would agree that consciousness remains an inconvenient enigma in a world that otherwise seems reducible
+to things, objects, patterns, and equations.
+Equally, it is clear that the tools of science can reveal something about the nature of consciousness.
+Thousands of experiments attest that consciousness has predictable characteristics, predictable correlates,
+and fluctuates under predictable conditions (Koch et al., 2016; Frith, 2021). Thanks to this growing
+evidence base, an array of impressive theories of consciousness (ToCs) have emerged in recent years
+(Rosenthal, 2000; Seth & Bayne, 2022; Carruthers, 2017; Tononi, 2008; Baars, 2005). These theories have
+many strengths and explanatory power but a general consensus in the scientific community does not exist.
+Even the metaphysical assumptions underlying the science of consciousness still result in fierce debates
+(Kuhn, 2024; Fleming et al., 2023; Kastrup, 2008).
+Here, we aim to contribute to these theories by building on a promising general theory of organisms,
+known as active inference or predictive processing, under the free energy principle (Friston, 2010; Clark,
+2013; Hohwy, 2013; Seth & Tsakiris, 2018). Several others have proposed that active inference may
+provide solutions to different features of conscious experience (e.g., Hohwy, 2022; Hohwy & Seth, 2020;
+Safron, 2020; 2022; Carhart-Harris et al. 2014; Rudrauf et al. 2017; Friston, 2018; Williford et al. 2018;
+Clark, 2019; Kanai et al., 2019; Chang et al. 2020; Deane, 2021; Whyte & Smith, 2021; Whyte et al., 2024).
+Nevertheless, it remains unclear whether active inference can satisfy the conditions for a ToC. Yet others
+have proposed that we should think of active inference as providing "...theories for consciousness science,
+rather than ToCs per se" (Seth & Bayne, 2022, p. 446). The question arises, what conditions would active
+inference need to satisfy in order to cross the ToC threshold? Why is it that the theory is so successful in
+explaining perception, cognition, and action, but not consciousness itself?
+To address these questions, we propose three conditions that seem necessary for consciousness and
+show how some active inference systems satisfy them. The first condition is a generative world model, or
+epistemic field. This provides the 'space' or contents that can be known, hence the term epistemic
+(Metzinger, 2020). The second condition is inferential competition, which determines what becomes
+conscious and why it is coherent (i.e., addressing the binding problem). The third and final condition is
+epistemic depth, which refers to the fact that the epistemic field is recursively, and widely (i.e., deeply)
+shared throughout the system. As we will see, this idea has some similar characteristics to "broadcasting"
+(Dehaene et al., 2003), "information integration" (Tononi, 2008), and "fame in the brain" (Dennett, 2001),
+albeit with important differences.
+Below, we will introduce one condition at a time. We will then show how active inference can provide
+a parsimonious explanation for a range of cognitive processes and states of consciousness when these
+conditions are satisfied. Our view also implies that the most basal or minimal form of awareness is a highly
+simplified (nearly contentless) world model knowing itself non-locally. Therefore, a first person
+
+perspective, self-modeling, and agency, are not prerequisites of awareness, but are rather local or
+"contracted" forms of consciousness (Metzinger, 2020).
+To be concise, we will avoid an extensive literature review (see Seth & Bayne, 2022; Frith, 2021; or
+Lau, 2022 for reviews on ToCs). However, as noted above, many features of the theory (reviewed in Table
+2 of the discussion) are consistent with elements of other ToCs such as Global Neuronal Workspace Theory
+(GNWT, Dehaene et al., 2003), Higher Order Theories (HOT, Lau and Rosenthal, 2011), Recurrent
+Processing Theory (RPT, Lamme and Roelfsema, 2000; Pennartz et al., 2019) and Integrated Information
+Theory (IIT, Tononi, 2008). Links with existing theories will be made throughout. The strength of our
+approach will be in showing how the interactions of a minimal set of computational assumptions within
+active inference may provide the ingredients for consciousness, with implications for understanding various
+states from lucid dreaming to meditation, to psychedelics, as well as artificial intelligence. 

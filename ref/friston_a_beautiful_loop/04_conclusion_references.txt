@@ -1,0 +1,11 @@
+8.
+
+CONCLUSION
+
+We have proposed that consciousness is best understood as a looping, self-evidencing process that integrates and broadcasts a global model of reality, including itself, throughout a hierarchical active inference system. This account provides a formal and phenomenologically grounded explanation of the unity, continuity, and graded nature of conscious experience. By situating consciousness within the dynamics of self-evidencing inference, we offer a naturalistic framework that bridges neuroscience, psychology, artificial intelligence, and philosophy. Future work will further develop the formal and empirical implications of this model, exploring its applications across a range of domains.
+
+12.
+
+REFERENCES
+
+[Full reference list as in the original paper.] 

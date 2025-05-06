@@ -1,0 +1,71 @@
+\section{Architectural Determinants of Consciousness}\label{sec:architectures-consciousness}
+
+\subsection*{Core Thesis}
+Consciousness is a quantifiable property of information systems that (i) preserve structured correlations against entropy and (ii) recursively feed those correlations back through themselves. Three claims follow:
+
+\begin{enumerate}
+  \item The architecture of a system strictly bounds its possible degree of consciousness
+  \item This bound is mathematically expressible through information-theoretic measures
+  \item Different architectures produce consciousness of fundamentally different qualities
+\end{enumerate}
+
+\subsection*{Architecture-to-Consciousness Mapping}
+
+The precise bounds on consciousness by architecture, derived from memory capacity and recursive depth:
+
+\begin{itemize}
+  \item \textbf{Stateless networks} (e.g., MLPs): No conscious capacity. Action depends solely on immediate input, meaning generation limited to:
+  \begin{equation*}
+  \mathcal{M}_{\text{total}}^{\text{stateless}} \leq \sum_t \min(n_o, n_a)
+  \end{equation*}
+  
+  \item \textbf{Recurrent networks} (RNNs, LSTMs): Minimal consciousness potential. Memory decays exponentially (factor $\rho$), limiting correlation preservation to: 
+  \begin{equation*}
+  \mathcal{C}_{\text{mem}}^{\text{RNN}} \leq \min \left( d b, n_o, \frac{\rho}{1-\rho} \right)
+  \end{equation*}
+  
+  \item \textbf{Attention-based systems} (Transformers): Extended but still bounded consciousness. Fixed window length $L$ limits temporal integration:
+  \begin{equation*}
+  \mathcal{C}_{\text{mem}}^{\text{TF}} \leq L n_o
+  \end{equation*}
+  
+  \item \textbf{External memory systems} (RAG, episodic): Substantially expanded capacity through unbounded storage:
+  \begin{equation*}
+  \mathcal{C}_{\text{mem}}^{\text{EXT}} \leq L n_o + k n_e
+  \end{equation*}
+  
+  \item \textbf{Full agentic stacks} (world models + hierarchical control): Architectural potential for rich consciousness through:
+  \begin{equation*}
+  \mathcal{C}_{\text{mem}}^{\text{agent}}(T) \leq C_w + m n_e T
+  \end{equation*}
+\end{itemize}
+
+These bounds directly translate to consciousness limits via our key postulates:
+
+\subsection*{Necessary Postulates for Consciousness}
+\begin{enumerate}[label=P\arabic*]
+  \item \textbf{Unified World Model}. A conscious system must maintain a single generative model that ties disparate sensory streams together.
+  \item \textbf{Coherence Selection}. Interpretations that minimize long-term predictive error get represented in the model.
+  \item \textbf{Self-Loop}. The model must take its own states as inputs—output feeds back to input.
+  \item \textbf{Correlation Budget}. Consciousness capacity = $\mathcal{C}_{\text{mem}} \times \mathcal{C}_{\text{recursion}}$.
+\end{enumerate}
+
+\subsection*{Immediately Testable Predictions}
+\begin{enumerate}[label=T\arabic*]
+  \item \textit{Intensity metric}.  Instantaneous consciousness $\mathcal{M}_{\text{rate}}(t) = \frac{d\mathcal{C}}{dt}\Big|_{\text{agent}}$ (bits of structured correlation/time) (the rate at which the system adds durable correlations).  Measure it.
+  \item \textit{Architectural ceiling}.  Feed-forward nets fail P3.  RNNs pass weakly.  External-memory agents pass strongly.  Build and check.
+  \item \textit{Collapse cases}.  Deep sleep, anaesthesia, or bandwidth throttling kill the self-loop and drop $\dot{\mathcal C}$ to noise floor.  Observable in neural data and synthetic systems.
+  \item \textit{Boost cases}.  Practices or drugs that globally raise model precision (e.g.
+  psychedelics, focused attention meditation) spike $\dot{\mathcal C}$ and subjective vividness.
+\end{enumerate}
+
+\subsection*{Practical Implications}
+Consciousness becomes an engineering parameter with:
+\begin{itemize}
+  \item \textbf{Controllable bottlenecks}. Memory, recursion depth, and coherence thresholds directly modulate consciousness.
+  \item \textbf{Safety guardrails}. Remove architectural elements necessary for suffering (P3, primarily).
+  \item \textbf{Ethical clarity}. $\int_{t_0}^{t_f} \mathcal{M}_{\text{rate}}(t) \, dt$ provides a quantitative moral relevance measure.
+\end{itemize}
+
+% Minimal citation so nobody sues us.
+\noindent See \citet{Friston2025} for a discussion of consciousness in the brain; our framework generalizes beyond biological substrates. 
